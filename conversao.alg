@@ -35,6 +35,8 @@ repita
          valor <- 0
          valor1 <- 0
          escreval
+      senao
+         escreval("Opção inválida")
       fimse
    fimse
 ate opcao = "3"
