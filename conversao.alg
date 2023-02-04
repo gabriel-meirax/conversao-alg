@@ -9,7 +9,7 @@ valor, valor1: real
 inicio
 
 repita
-   escreval("Digite 1 para quilometros em metros")
+   escreval("Digite 1 para quilometros em metros!!!")
    escreval("Digite 2 para converter litros em metros cúbicos")
    escreval("Digite 3 para sair do programa")
    leia(opcao)
